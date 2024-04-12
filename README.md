@@ -5,11 +5,11 @@
 <p> Sou um jovem de 20 anos com bastante vontade de aprender, sou bem comunicativo com as pessoas e quando fico travado em um problema, procuro ir atrás de uma solução.</p>
 
 <h2>Skills</h2>
-**<p styles="font-weight:"bold"">Front-End:</p>
+###Front-End:
 <p>Javascript, Typescript, React-ts, React-js, Next.js, SASS, TailwindCSS, React Native e Flutter</p>
-<p styles="font-weight:"bold"">Back-End:</p>
+####Back-End:
 <p>Node.js, Express, MongoDB e Mongoose</p>
-<p styles="font-weight:bold">Profissional:</p>
+###Profissional:
 <p>Trabalho Home-Office, Trabalho em equipe, Mentoria, Liderança e Gerenciamento de Equipe</p>
 
 <div style="display:inline_block">

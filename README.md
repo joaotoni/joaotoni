@@ -7,6 +7,11 @@
 <h2>Skills</h2>
 <div style="display:"flex" " >
   <p styles="font-weight:"bold"">Front-End:</p>
+  <p>Javascript, Typescript, React-ts, React-js, Next.js, SASS, TailwindCSS, React Native e Flutter</p>
+  <p styles="font-weight:"bold"">Back-End:</p>
+  <p>Node.js, Express, MongoDB e Mongoose</p>
+  <p styles="font-weight:bold">Profissional:</p>
+  <p>Trabalho Home-Office, Trabalho em equipe, Mentoria, Liderança e Gerenciamento de Equipe</p>
 </div>
 <div style="display:inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=35 height=35/>

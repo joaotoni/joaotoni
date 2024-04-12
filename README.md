@@ -1,6 +1,6 @@
 <h1>Oi, eu sou João Antonio Martins Taveira</h1>
 
-<p> Eu sou apaixonado por desenvolver coisas que aparecem o resultado na hora. Sou Desenvolvedor Full-Stack e amo o que faço, estou cursando  Analise e Desenvolvimento de Sistemas na Universidade da PUC-GO. Contudo, realizei o curso da Gama Academy de Desenvolvimento Full-Stack na parte de sistemas webs, no qual fiz parte da turma xp42. </p>
+<p> Eu sou apaixonado por desenvolver coisas que aparecem o resultado na hora. Sou Desenvolvedor Full-Stack com experiência de 1 ano e meio, estou cursando  Analise e Desenvolvimento de Sistemas na Universidade da PUC-GO. Contudo, realizei o curso da Gama Academy de Desenvolvimento Full-Stack na parte de sistemas webs, no qual fiz parte da turma xp42. </p>
 
 <p> Sou um jovem de 20 anos com bastante vontade de aprender, sou bem comunicativo com as pessoas e quando fico travado em um problema, procuro ir atrás de uma solução.</p>
 

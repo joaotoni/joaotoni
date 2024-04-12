@@ -5,14 +5,13 @@
 <p> Sou um jovem de 20 anos com bastante vontade de aprender, sou bem comunicativo com as pessoas e quando fico travado em um problema, procuro ir atrás de uma solução.</p>
 
 <h2>Skills</h2>
-<div style="display:"flex" " >
-  <p styles="font-weight:"bold"">Front-End:</p>
-  <p>Javascript, Typescript, React-ts, React-js, Next.js, SASS, TailwindCSS, React Native e Flutter</p>
-  <p styles="font-weight:"bold"">Back-End:</p>
-  <p>Node.js, Express, MongoDB e Mongoose</p>
-  <p styles="font-weight:bold">Profissional:</p>
-  <p>Trabalho Home-Office, Trabalho em equipe, Mentoria, Liderança e Gerenciamento de Equipe</p>
-</div>
+**<p styles="font-weight:"bold"">Front-End:</p>
+<p>Javascript, Typescript, React-ts, React-js, Next.js, SASS, TailwindCSS, React Native e Flutter</p>
+<p styles="font-weight:"bold"">Back-End:</p>
+<p>Node.js, Express, MongoDB e Mongoose</p>
+<p styles="font-weight:bold">Profissional:</p>
+<p>Trabalho Home-Office, Trabalho em equipe, Mentoria, Liderança e Gerenciamento de Equipe</p>
+
 <div style="display:inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=35 height=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" />
@@ -22,4 +21,4 @@
 <h2>Meu Linkedin: </h2>
 [![Linkedin: SEU NOME](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-martins-taveira-a4a599224/)](LINKED-DO-SEU-LINKEDIN)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaotoni&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="joaotoni" />
+<p align="left"> <img src="www.linkedin.com/in/joaotoni" alt="joaotoni" />

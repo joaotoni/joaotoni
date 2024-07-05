@@ -19,3 +19,6 @@
 </div>
 <h2>Meu Linkedin: </h2>
 [Linkedin: joaotoni] (https://www.linkedin.com/in/joaotoni/)
+
+<h2>Telefone para contato</h2>
++55 (62) 99867-1605

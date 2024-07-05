@@ -1,14 +1,14 @@
 <h1>Oi, eu sou João Antonio Martins Taveira</h1>
 
-<p> Eu sou apaixonado por desenvolver coisas que aparecem o resultado na hora. Sou Desenvolvedor Full-Stack com experiência de 1 ano e meio, estou cursando  Analise e Desenvolvimento de Sistemas na Universidade da PUC-GO. Contudo, realizei o curso da Gama Academy de Desenvolvimento Full-Stack na parte de sistemas webs, no qual fiz parte da turma xp42. </p>
+<p> Sou apaixonado por desenvolver coisas que mostram resultados imediatos. Sou Desenvolvedor Full-Stack com 2 anos de experiência e estou cursando Análise e Desenvolvimento de Sistemas na PUC-GO. Além disso, concluí o curso de Desenvolvimento Full-Stack na Gama Academy, focado em sistemas web, onde fiz parte da turma XP42. </p>
 
-<p> Sou um jovem de 20 anos com bastante vontade de aprender, sou bem comunicativo com as pessoas e quando fico travado em um problema, procuro ir atrás de uma solução.</p>
+<p> Sou um jovem de 21 anos com bastante vontade de aprender, sou bem comunicativo com as pessoas e quando fico travado em um problema, procuro ir atrás de uma solução.</p>
 
 <h2>Skills</h2>
 <h3>Front-End:</h3>
-<p>HTML, CSS, Javascript, Typescript, React-ts, React-js, Next.js, SASS, TailwindCSS, React Native e Flutter</p>
+<p>HTML, CSS, Javascript, Typescript, Next.js, React-ts, React-js, React Native, Flutter, SASS, TailwindCSS, Styled Components</p>
 <h3>Back-End:</h3>
-<p>Node.js, Express, MongoDB e Mongoose</p>
+<p>Node.js, Express, SQL, MongoDB e Mongoose</p>
 <h3>Profissional:</h3>
 <p>Trabalho Home-Office, Trabalho em equipe, Mentoria, Liderança e Gerenciamento de Equipe</p>
 

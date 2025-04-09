@@ -1,8 +1,6 @@
 <h1>Hi, I am João Antonio Martins Taveira</h1>
 
-<p> I am passionate about developing things that show immediate results. I am a Full-Stack Developer with 2 years of experience and I am currently studying Systems Analysis and Development at PUC-GO. Additionally, I completed the Full-Stack Development course at Gama Academy, focused on web systems, where I was part of the XP42 class. </p>
-
-<p> I am a 21 years old with a strong desire to learn, I am very communicative with people, and when I get stuck on a problem, I always seek out a solution.</p>
+<p> I am Full-Stack Developer with 3 years of experience. I have been development bigs aplications for companys using my extensive knowledge from requirements analysis until systems development. I use for development of this systems React-ts, React-js, React Native, Typescript, Javascript, Flutter, Node.js, Axios, Express, NoSQL and SQL. Until this moment i have been working for Cast Group providing service for Secretary of Economy of the State of Goiás building Android Aplications using Flutter and Java.</p>
 
 <h2>Skills</h2>
 <h3>Front-End:</h3>
